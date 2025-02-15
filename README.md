@@ -1,30 +1,39 @@
-🌱 Smart Agri - Crop Prediction Platform
-Smart Agri is a web-based platform designed to predict the most suitable crops based on weather and soil conditions. Built for a hackathon, this project aims to assist farmers and agricultural enthusiasts in making data-driven farming decisions.
+# Crop Prediction Platform
 
-🚀 Features
-🌾 Predicts the best crop based on input parameters
-📊 User-friendly interface with responsive design
-🔥 Built with HTML, CSS, and JavaScript (No database required)
-🛠️ Tech Stack
-Frontend: HTML, CSS, JavaScript
-Backend: None (Purely frontend-based prediction)
-📌 How to Run
-Clone the repository:
-bash
-Copy
-Edit
-git clone https://github.com/Linkash-77/smart-agri.git
-Navigate to the project folder:
-bash
-Copy
-Edit
-cd smart-agri
-Open index.html in a browser.
-🤝 Contribution
-Fork the repository.
-Create a new branch (feature-branch).
-Commit changes and push to your forked repo.
-Submit a Pull Request.
+## Overview
+This is a simple web-based platform that predicts suitable crops based on user inputs like weather and soil conditions. The frontend is built using HTML, CSS, and JavaScript.
+
+## Features
+- Responsive UI for different screen sizes
+- User-friendly form for input
+- Dynamic result display based on input
+
+## Technologies Used
+- **Frontend:** HTML, CSS, JavaScript
+
+## How to Run
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/Linkash-77/smart-agri.git
+   ```
+2. Navigate to the project directory:
+   ```sh
+   cd smart-agri
+   ```
+3. Open `index.html` in a web browser.
+
+## Folder Structure
+```
+smart-agri/
+│-- index.html
+│-- styles.css
+│-- script.js
+│-- README.md
+```
+
+## Contributing
+Feel free to fork this repository and submit pull requests for improvements.
 
 
-Let me know if you need any modifications! 🚀
+
+
