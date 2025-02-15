@@ -18,9 +18,12 @@ This is a simple web-based platform that predicts suitable crops based on user i
    ```
 2. Navigate to the project directory:
    ```sh
-   cd smart-agri
+   cd agri
+   npm start
+   cd backend
+   node server.js
    ```
-3. Open `index.html` in a web browser.
+
 
 ## Folder Structure
 ```
